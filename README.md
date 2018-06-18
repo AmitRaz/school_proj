@@ -20,7 +20,7 @@ after NPM is installed and MongoDB is up,make sure you are connected to the inte
 * start MongoDB
 * cd to the repo dictionary
 * type 'npm install'
-* create new file, call it .env, and add the phrase "SECRET=<your own string>
+* create new file, call it .env, and add the phrase "SECRET={your own string}"
 * type 'cd ./client'
 * type 'npm install'
 * type 'npm start'
